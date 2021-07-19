@@ -1,0 +1,2 @@
+hi this is a sample txt from remote repo and main branch
+hi this is a sample txt from local repo and main branch
